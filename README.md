@@ -10,7 +10,7 @@ The player must hit enter to start the game, once the game has started the objec
 If an enemy snake is hit the game will automatically end.
 # Favorite Code and Challeneges
 
-###  Katie
+### Katie
 
 The hardest part of the code was figuring out how to track the x and y coordinates of each part of the enemy snake FOR each snake. We had ideas to create an array of an array to keep a similar movement style to the player snake and ended up doing that towards the end.
 ```

@@ -4,13 +4,13 @@ By: Helina Tadesse (tadesseh@emmanuel.edu), Katie Bartash (bartashk@emmanuel.edu
 This game is a cool take on the google snake game along with other variations, as the snake eats apples it will continue to grow  (you can track your score in the top right corner),like the other snake games out there, these are the enemy snakes. You DO NOT want your snake head to collide with them or you will die!
 
 # Description        
-### <em> How to play:</em>
+### How to play
 
 The player must hit enter to start the game, once the game has started the object of the game is to collect as many apples without hitting the enemy snakes. 
 If an enemy snake is hit the game will automatically end.
 # Favorite Code and Challeneges
 
-### <strong> Katie </strong> 
+###  Katie
 
 The hardest part of the code was figuring out how to track the x and y coordinates of each part of the enemy snake FOR each snake. We had ideas to create an array of an array to keep a similar movement style to the player snake and ended up doing that towards the end.
 ```
@@ -41,7 +41,7 @@ function setup() {
     snakeBodyY.push(height / 2);
   }
 ```
-### <strong> Helina </strong> 
+### Helina 
 
 The code I am most proud of is, the color scheme/ background. I just threw in a for loop that created a grid so it had more of a more analog game (pac man), and once the sounds started working it all tied together.
 ```

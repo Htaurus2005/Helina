@@ -10,7 +10,7 @@ The player must hit enter to start the game, once the game has started the objec
 If an enemy snake is hit the game will automatically end.
 ## Favorite Code and Challeneges
 
-<strong> Katie </strong>. 
+<strong> Katie </strong> 
 
 The hardest part of the code was figuring out how to track the x and y coordinates of each part of the enemy snake FOR each snake. We had ideas to create an array of an array to keep a similar movement style to the player snake and ended up doing that towards the end.
 ```
@@ -41,7 +41,7 @@ function setup() {
     snakeBodyY.push(height / 2);
   }
 ```
-<strong> Helina </strong>. 
+<strong> Helina </strong> 
 
 The code I am most proud of is, the color scheme/ background. I just threw in a for loop that created a grid so it had more of a more analog game (pac man), and once the sounds started working it all tied together.
 ```

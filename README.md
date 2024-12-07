@@ -1,5 +1,4 @@
 # Snakesssss 
-
 By: Helina Tadesse (tadesseh@emmanuel.edu), Katie Bartash (bartashk@emmanuel.edu) December 6th , 2024
 # Getting Started
 This game is a cool take on the google snake game along with other variations, as the snake eats apples it will continue to grow  (you can track your score in the top right corner),like the other snake games out there, these are the enemy snakes. You DO NOT want your snake head to collide with them or you will die!

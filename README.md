@@ -1,4 +1,4 @@
-<h1>Snakesssss </h1> 
+# Snakesssss 
 
 By: Helina Tadesse (tadesseh@emmanuel.edu), Katie Bartash (bartashk@emmanuel.edu) December 6th , 2024
 # Getting Started

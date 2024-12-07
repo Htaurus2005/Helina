@@ -57,7 +57,7 @@ if(keyCode === ENTER) {
     stroke(0);
     fill('red');
     text(ScoreBoard, 350, 50);
-    for(let y = 15; y <= height - 10; y += 12) { //adds grid like bacground
+    for(let y = 15; y <= height - 10; y += 12) { //adds grid like background
       for(let x = 15; x <= width - 10; x += 12) {
         ellipse(x, y, 3, 3);
         fill('green');
